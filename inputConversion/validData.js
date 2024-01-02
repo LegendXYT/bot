@@ -60,10 +60,10 @@ if (!flattenedAbilities.includes(ability)) {
   // Check if the lineup exists
   if (
     Lineups[agent] &&
-    Lineups[agent][map] && // Ensure that map is correctly used here
+    Lineups[agent][map] && 
     Lineups[agent][map][abilityAlias] &&
     Lineups[agent][map][abilityAlias][sideAlias] &&
-    Lineups[agent][map][abilityAlias][sideAlias][locationAlias] // Ensure that locationAlias is used correctly
+    Lineups[agent][map][abilityAlias][sideAlias][locationAlias] 
   ) {
     // console.log('Debug: Lineup found:', Lineups[agent][map][abilityAlias][sideAlias][locationAlias]);
     return Lineups[agent][map][abilityAlias][sideAlias][locationAlias];
