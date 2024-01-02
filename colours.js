@@ -1,0 +1,27 @@
+export const colours = {
+        blueColour:'#5658ff',
+        lightBlueColour: '#9adeff',
+        greenColour: '#078f3f',
+        silverColour: '#9E9E9E',
+        cyanColour: '#05c4bc',
+        yellowColour: '#ffe100',
+        greyColour: '#1e1f31',
+        orangeColour: '#ff6700',
+        redColour: '#dc3d4b',
+        limeGreenColour: '#CCED00',
+    }
+export const agentColours = {
+        sovaColour: '#5658ff',
+        jettColour: '#9adeff',
+        omenColour: '#315bb9',
+        viperColour: '#078f3f',
+        cypherColour: '#9E9E9E',
+        sageColour: '#05c4bc',
+        killjoyColour: '#ffe100',
+        fadeColour: '#1e1f31',
+        brimstoneColour: '#ff6700',
+        razeColour: '#ff6700',
+        phoenixColour: '#dc3d4b',
+        gekkoColour: '#CCED00',
+        kayoColour: '#5658ff',
+    }
