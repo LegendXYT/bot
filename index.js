@@ -10,7 +10,6 @@ import {
     ButtonBuilder,
     ButtonStyle,
 } from 'discord.js';
-import { colours, agentColours } from './colours.js';
 dotenv.config();
 
 // Initializing quickDB, environment variables, and Discord client
