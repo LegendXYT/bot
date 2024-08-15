@@ -1,0 +1,1 @@
+# Lineup information bot for discord
